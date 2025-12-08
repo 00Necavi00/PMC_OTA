@@ -2,3 +2,4 @@ OTA FIRMWARE UPDATE
 version=110
 url=https://www.mediafire.com/file/pfuhpq136tyelwa/app-template.bin
 
+
