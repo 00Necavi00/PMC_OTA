@@ -1,3 +1,3 @@
 OTA FIRMWARE UPDATE
-version=1131
-url=http://download1476.mediafire.com/jm0jac1tw7sgAhJ5f7mwx7vETY1tD3_l2PMUr_8zUA6gUN1YeEJQQTWEzg5h6gaOLlWXxgMMvaXLpuzMSOPBriUiYoZOcU9Ty9G4dmAzKEt4nU-Kx5BuEO8d9mQkEcYvUGvg8-KfMAwf1k09PR0NEtQvc-yQTu-bskUUoP4cP6Di/ai2rsmi2zkksc4l/app-template.bin
+version=1132
+url=http://download1593.mediafire.com/xhhbzvw8bhqgDEoQduyt2Dx6HavIUEN0aW_xzc-HnkNsQy97q-L2JVQfVz1LLjiOfcPLH2EfiMOTJcGgNP0hBuepuZfBlAy8dccvabs-X9E3EaUx1EjAK9tE9HZ7i7tvMWPGFdYJufN-ry9aMvx5c5zrU6PbFvqzNhQVBOFDIroY/gbco3slyqvmzd6l/app-template.bin
