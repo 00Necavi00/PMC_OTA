@@ -1,1 +1,3 @@
-url
+OTA FIRMWARE UPDATE
+version=1976768
+url=http://download1654.mediafire.com/5p2rembnh2xgk-Gi17Zj-1SYwZQp5l_cI-xDBBt8F-rufsWB3feS5kMCHu78FZDhKqbjzDAytPQDdNkc4y5SPzWYBVUfBof1fDhX0erPXsUW1Sx2YTsQFF1GizJmh-9UtCtTWNTiLcB0XvyJ1jxYUQw1f_fdjlq2fITEVvy1UFum/0ltefp5hxloz63q/app-template.bin
