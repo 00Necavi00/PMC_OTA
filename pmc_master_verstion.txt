@@ -1,3 +1,3 @@
 OTA FIRMWARE UPDATE
 version=2001101
-url=
+url=http://download1327.mediafire.com/fie55h4squtgu3rY3DLWDGTujxHpBbmbkPav94J6Tl0hc3A-218z5NfeEmfPQ_Rk3l-HB72qZhGl_zBTvXUpmwJy0TJfz6gs4kNIVkK1xOYSZE6Kcd07FUIGUGtLyxK8I91f8Dtet_L2Ol8-JoVTCKiDZS722vPmf-OONsyhOY7p/paq0bs4lql2uest/PowerManagementController.bin
